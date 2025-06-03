@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-const API_URL = "http://<IP-da-sua-máquina>:3000/compras";
+const API_URL = "http://10.81.205.12:3000/compras";
 
 function App() {
   const [compras, setCompras] = useState([]);
