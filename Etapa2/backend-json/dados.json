@@ -1,20 +1,30 @@
 {
   "items": [
     {
-      "id": "1e86",
-      "text": "Leite"
+      "id": "bcaf",
+      "item": "Leite"
+    }
+  ],
+  "compras": [
+    {
+      "item": "saco",
+      "quantidade": 8,
+      "id": "54b6"
     },
     {
-      "text": "Farinha",
-      "id": "bccf"
+      "id": "ce75",
+      "item": "Rrrr",
+      "quantidade": 4
     },
     {
-      "id": "1859",
-      "text": "Ovos"
+      "id": "9bf8",
+      "item": "Gesff",
+      "quantidade": 222
     },
     {
-      "id": "0c21",
-      "text": "Arroz"
+      "id": "bb23",
+      "itens": "ovos",
+      "quantidade": 2
     }
   ]
 }
