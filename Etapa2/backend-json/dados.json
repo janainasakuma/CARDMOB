@@ -1,32 +1,20 @@
 {
   "items": [
     {
-      "id": "d79c",
+      "id": "1e86",
+      "text": "Leite"
+    },
+    {
+      "text": "Farinha",
+      "id": "bccf"
+    },
+    {
+      "id": "1859",
       "text": "Novo item"
     },
     {
-      "id": "89ed",
-      "text": "Novo item"
-    },
-    {
-      "id": "7b24",
-      "text": "Novo item"
-    },
-    {
-      "id": "4138",
-      "text": "Novo item"
-    },
-    {
-      "id": "cd68",
-      "text": "Novo item"
-    },
-    {
-      "id": "86a7",
-      "text": "Novo item"
-    },
-    {
-      "id": "ab90",
-      "text": "Novo item"
+      "id": "0c21",
+      "text": "Arroz"
     }
   ]
 }
